@@ -1,0 +1,1 @@
+Nessa paste teremos projetos relacionados ao curso de Python
